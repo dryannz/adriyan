@@ -1,9 +1,9 @@
-# Halo! 👋
+# Halo! 
 Nama : Adriyan
 NIM  : 1324052
 
 
-# 🛒 Membuat Aplikasi Sistem Pencatatan Transaksi Penjualan PT XYZ
+# Membuat Aplikasi Sistem Pencatatan Transaksi Penjualan PT XYZ
 
 Sistem ini dikembangkan untuk mempermudah, mendigitalkan, dan merapikan proses pencatatan transaksi penjualan harian di PT XYZ. Aplikasi ini dirancang agar data operasional dapat dikelola dengan efisien, mudah dilacak, dan meminimalisir kesalahan pencatatan manual.
 
